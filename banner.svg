@@ -1,0 +1,50 @@
+<svg width="100%" viewBox="0 0 680 190" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <style>
+    .bg { fill: #0d1117; }
+    .divider { stroke: #21262d; stroke-width: 0.5; }
+    .prompt { font-family: monospace; font-size: 14px; fill: #484f58; }
+    .path { font-family: monospace; font-size: 14px; fill: #3b8eea; }
+    .name { font-family: monospace; font-size: 32px; font-weight: 700; fill: #79c0ff; letter-spacing: 1px; }
+    .cursor-rect { fill: #79c0ff; }
+    .role { font-family: monospace; font-size: 13px; fill: #8b949e; }
+    .tag-bg-b { fill: #1f3d5c; }
+    .tag-text-b { font-family: monospace; font-size: 11px; fill: #79c0ff; }
+    .tag-bg-g { fill: #1a3028; }
+    .tag-text-g { font-family: monospace; font-size: 11px; fill: #56d364; }
+    .tag-bg-p { fill: #2d1f4e; }
+    .tag-text-p { font-family: monospace; font-size: 11px; fill: #d2a8ff; }
+    .tag-bg-n { fill: #21262d; }
+    .tag-text-n { font-family: monospace; font-size: 11px; fill: #8b949e; }
+  </style>
+</defs>
+<rect width="680" height="190" class="bg" rx="6"/>
+<line x1="40" y1="40" x2="640" y2="40" class="divider"/>
+<line x1="40" y1="150" x2="640" y2="150" class="divider"/>
+<text class="path" x="40" y="30">~/github/iwan-dyke</text>
+<text class="prompt" x="220" y="30"> on </text>
+<text class="path" x="246" y="30">main</text>
+<text class="prompt" x="40" y="72">❯</text>
+<text class="path" x="60" y="72">whoami</text>
+<text class="name" x="40" y="110">Iwan Dyke</text>
+<rect class="cursor-rect" x="262" y="90" width="18" height="28" rx="1"/>
+<text class="role" x="40" y="135">Data &amp; platform engineer  ·  ~8 years  ·  UK</text>
+<rect x="40" y="160" width="86" height="20" rx="10" class="tag-bg-b"/>
+<text class="tag-text-b" x="83" y="174" text-anchor="middle">Databricks</text>
+<rect x="134" y="160" width="50" height="20" rx="10" class="tag-bg-b"/>
+<text class="tag-text-b" x="159" y="174" text-anchor="middle">Spark</text>
+<rect x="192" y="160" width="46" height="20" rx="10" class="tag-bg-b"/>
+<text class="tag-text-b" x="215" y="174" text-anchor="middle">Azure</text>
+<rect x="246" y="160" width="34" height="20" rx="10" class="tag-bg-g"/>
+<text class="tag-text-g" x="263" y="174" text-anchor="middle">Go</text>
+<rect x="288" y="160" width="72" height="20" rx="10" class="tag-bg-g"/>
+<text class="tag-text-g" x="324" y="174" text-anchor="middle">Terraform</text>
+<rect x="368" y="160" width="56" height="20" rx="10" class="tag-bg-g"/>
+<text class="tag-text-g" x="396" y="174" text-anchor="middle">Python</text>
+<rect x="432" y="160" width="38" height="20" rx="10" class="tag-bg-n"/>
+<text class="tag-text-n" x="451" y="174" text-anchor="middle">SQL</text>
+<rect x="478" y="160" width="34" height="20" rx="10" class="tag-bg-p"/>
+<text class="tag-text-p" x="495" y="174" text-anchor="middle">DX</text>
+<rect x="520" y="160" width="106" height="20" rx="10" class="tag-bg-p"/>
+<text class="tag-text-p" x="573" y="174" text-anchor="middle">Platform tooling</text>
+</svg>
