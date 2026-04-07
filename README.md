@@ -1,19 +1,17 @@
-## Hi, I'm DeDude
+## Hi, I'm Iwan
 
-Data / platform engineer and accidental jack-of-all-trades.  
-Currently working with **Databricks on Azure**, **Spark**, **Terraform**, and **Drone CI**, main interests:
-- Reliable lakehouse-style data platforms
-- Infrastructure as code and automated deployments
-- Internal dev tools that remove friction for engineers
+Data and platform engineer with ~8 years in the field, currently transitioning into software and infrastructure engineering.
+
+I build reliable data platforms and internal tooling — with a focus on developer experience, reducing friction, and making systems observable and maintainable.
 
 ### What I work with
 
-- **Data & compute:** Databricks (Azure), ADF, Spark, Delta Lake, SQL
-- **Cloud & infra:** AWS, Terraform, Docker, Drone CI
-- **Languages:** Python, SQL, bash, a bit of Go / Scala if i need some jvm
-- **Interests:** developer experience, data quality, observability, automation
+- **Data & compute:** Databricks (Azure), Spark, Delta Lake, ADF, SQL
+- **Cloud & infra:** Azure, Terraform, Docker, Drone CI
+- **Languages:** Python, SQL, Go, Bash
+- **Interests:** Platform engineering, developer experience, data quality, observability, automation
 
 ### Currently
 
-- Building data / platform stuff around Databricks on Azure
-- Experimenting with dev tools and automation in my spare time
+- Building platform tooling and infrastructure around Databricks on Azure
+- Exploring software engineering patterns and practices
