@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/Iwan-Dyke/Iwan-Dyke/main/banner.svg)
+
 ## Hi, I'm Iwan
 
 Data and platform engineer with ~8 years in the field, currently transitioning into software and infrastructure engineering.
